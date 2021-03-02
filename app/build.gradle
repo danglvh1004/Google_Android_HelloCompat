@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "com.example.hellocompat"
-        minSdkVersion 15
-        targetSdkVersion 26
+        minSdkVersion 28
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 
